@@ -1,0 +1,15 @@
+{
+
+"beam_power[W]":1,
+
+"comment1":"radius of vertical incidence",
+"beam_radius(x,y)[micro_m]":(140.35,156.45),
+
+"comment2":"theta is angle of laser incidence",
+"theta(x,y)[degree]":(0,0),
+
+"lasor center coordinates(x0,y0)":(0,0),
+
+"radius of spherical surface for laser receiving(R_0)[mm]":1
+
+}

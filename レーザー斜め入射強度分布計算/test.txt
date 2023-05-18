@@ -1,0 +1,1 @@
+{"Beam Power[W]": 1, "Beam radius(omega0x,omega0y)[m]": [0.005, 0.005], "Beam angle(thetax,thetay)[degree]": [0, 0], "Radius of circular receiving surface[m]": 0.0381}
